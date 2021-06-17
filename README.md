@@ -1,2 +1,2 @@
 # Examen1
-Registro de empleados. 
+## Registro de empleados. 
